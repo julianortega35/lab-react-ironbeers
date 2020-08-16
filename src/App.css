@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.homeImages{
+  width: 60%;
+  height: 600px;
+
+  
+  }
+  
+
+.beerListSize{
+width: 300px;
+
+}
+
+.beerListSize img{
+  width: 200px;
+  
+  }
